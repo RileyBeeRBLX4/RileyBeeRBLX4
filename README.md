@@ -17,4 +17,4 @@
 
 [![Programming Languages](https://skillicons.dev/icons?i=js,lua,php,html)](https://skillicons.dev)
 
-[![Programming Languages 2](https://skillicons.dev/icons?i=js,css,node.js)](https://skillicons.dev)
+[![Programming Languages 2](https://skillicons.dev/icons?i=js,node.js)](https://skillicons.dev)
