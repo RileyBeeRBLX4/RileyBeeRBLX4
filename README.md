@@ -9,10 +9,9 @@
 
 *Social Media*
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />[Youtube](https://youtube.com/@RileyBeeRBLX4)
+[Youtube](https://youtube.com/@RileyBeeRBLX4)
 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Discord.png" />[Discord](https://discord.gg/EAj299X7e3)
+[Discord](https://discord.gg/EAj299X7e3)
 
 # L A N G U A G E
 
